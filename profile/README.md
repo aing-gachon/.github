@@ -4,7 +4,7 @@
 인공지능의 이론적 토대를 견고히 다지고, 이를 직접 구현하며 지식을 체화하는 과정을 지향합니다.
 <br>
 
-## 주요 활동 (Activities)
+## Activities
 | 구분 | 상세 내용 |
 | :--- | :--- |
 | 주니어 | 기초 논문의 수식을 코드로 매핑하며 딥러닝 파이프라인 체화 |
@@ -12,7 +12,7 @@
 
 <br>
 
-## 기술 스택 (Tech Stack)
+## Tech Stack
 - **Language:** `Python`
 - **Frameworks:** `PyTorch`
 - **Interests:** `CV`, `NLP`, `RL`, `HCI`, `Multi-Agent Systems`
