@@ -11,7 +11,6 @@
 | 시니어 | 특정 도메인의 SOTA 모델 기반으로 커스텀 모델 설계, 실전 역량 강화 |
 
 <br>
-<br>
 
 ## 기술 스택 (Tech Stack)
 - **Language:** `Python`
@@ -19,13 +18,11 @@
 - **Interests:** `CV`, `NLP`, `RL`, `HCI`, `Multi-Agent Systems`
 
 <br>
-<br>
 
 ## Contact
 - **Email:** gachon.aing@gmail.com
 - **Location:** 가천대학교 AI관
 
-<br>
 <br>
 
 ---
