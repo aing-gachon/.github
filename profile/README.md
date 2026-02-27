@@ -26,4 +26,4 @@
 <br>
 
 ---
-<p align="center">© 2026 A.ing. All rights reserved.</p>
+<p align="center">© 2026 A.ing. All rights reserved.Licensed under CC BY-NC-SA 4.0.</p>
